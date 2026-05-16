@@ -90,4 +90,4 @@ Nếu đề bài hoặc lời giải có hình ảnh/đồ thị, hệ thống s
 
 
 ---
-*Phát triển bởi almay4024 (idea ý tưởng và tính năng: nttungvx)*
+*Phát triển bởi Gemini (idea ý tưởng và tính năng: almay4024)*

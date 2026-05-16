@@ -3,6 +3,14 @@
     "title": "KỲ THI KHẢO SÁT CHẤT LƯỢNG HỌC SINH LỚP 12 VĨNH PHÚC 2024-2025 - LẦN 1 - MÃ ĐỀ 201",
     "p1_points": 0.25,
     "p3_points": 0.25,
+    "examId": "01006",
+    "subject": "01",
+    "p2_points": [
+        0.1,
+        0.25,
+        0.5,
+        1
+    ],
     "part1": [
         {
             "q": "Hình bên là dự báo thời tiết ở tỉnh Vĩnh Phúc ngày 22/12/2024. Theo thang nhiệt Kelvin, nhiệt độ thấp nhất và cao nhất trong ngày theo bảng dự báo bên là",
@@ -305,7 +313,5 @@
             "ans": "912",
             "explanation": "Khối lượng của $1\\text{ lít}$ nước ban đầu: $m_1 = 1\\text{ kg}$.\nNhiệt lượng tối đa nước tỏa ra để giảm xuống $0^\\circ\\text{C}$ là: $Q_{\\text{tỏa}} = m_1 c_1 (10 - 0) = 1 \\cdot 4200 \\cdot 10 = 42000\\text{ J}$.\nNhiệt lượng cần thiết để nước đá tăng nhiệt độ lên $0^\\circ\\text{C}$ là: $Q_{\\text{thu}} = m_2 c_2 (0 - (-10)) = 4 \\cdot 1800 \\cdot 10 = 72000\\text{ J}$.\nVì $Q_{\\text{tỏa}} < Q_{\\text{thu}}$ nên nước đá không bị tan, ngược lại nước sẽ nguội đến $0^\\circ\\text{C}$ rồi bắt đầu đông đặc thành đá để tiếp tục truyền nhiệt cho cục đá.\nNhiệt lượng phần nước bị đông đặc tỏa ra là: $Q_{\\text{đông đặc}} = Q_{\\text{thu}} - Q_{\\text{tỏa}} = 72000 - 42000 = 30000\\text{ J}$.\nKhối lượng nước bị đông đặc thành đá: $\\Delta m = \\frac{Q_{\\text{đông đặc}}}{\\lambda} = \\frac{30000}{3,4.10^5} \\approx 0,088235\\text{ kg} = 88,235\\text{ g}$.\nLượng nước còn lại trong bình khi cân bằng nhiệt là: $m' = 1000 - 88,235 = 911,765\\text{ g}$.\nLàm tròn đến chữ số hàng đơn vị ta có kết quả $912\\text{ g}$."
         }
-    ],
-    "examId": "01006",
-    "subject": "01"
+    ]
 }

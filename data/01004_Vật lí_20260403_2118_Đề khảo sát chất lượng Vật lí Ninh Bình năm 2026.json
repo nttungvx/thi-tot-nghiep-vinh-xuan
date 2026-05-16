@@ -2,7 +2,15 @@
     "timeLimit": 3000,
     "title": "Đề khảo sát chất lượng Vật lí Ninh Bình năm 2026",
     "p1_points": 0.25,
+    "p2_points": [
+	0.1,
+	0.25,
+	0.5,
+	1.0
+	],
     "p3_points": 0.25,
+    "examId": "01004",
+    "subject": "01",
     "part1": [
         {
             "q": "Một nhiệt kế có phạm vi đo từ 263 K đến 1273 K, dùng để đo nhiệt độ của các lò nung. Phạm vi đo của nhiệt kế này trong thang nhiệt độ Celsius là",
@@ -309,7 +317,5 @@
             "ans": "4,2",
             "explanation": "Theo nguyên lý I nhiệt động lực học: $\\Delta U = Q + A$. Khí nhận nhiệt ($Q = 25,4 \\text{ kJ}$) và sinh công ($A = -21,2 \\text{ kJ}$). Nên $\\Delta U = 25,4 - 21,2 = 4,2 \\text{ kJ}$."
         }
-    ],
-    "examId": "01004",
-    "subject": "01"
+    ]
 }

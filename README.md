@@ -1,13 +1,13 @@
 # Hệ Thống Thi Trắc Nghiệm THPT (Chuẩn định dạng 2026)
 
-Nền tảng Thi Tốt nghiệp THPT trực tuyến. Đây là hệ thống mã nguồn mở được thiết kế đặc biệt để mô phỏng chính xác cấu trúc đề thi và cách tính điểm mới nhất của Bộ GD&ĐT áp dụng từ năm 2026.
+Nền tảng Thi Tốt nghiệp THPT trực tuyến. Đây là hệ thống thi tốt nghiệp mô phỏng chính xác cấu trúc đề thi và cách tính điểm mới nhất của Bộ GD&ĐT áp dụng từ năm 2026.
 Lưu ý: Web được thiết kể để học sinh tự làm bài & luyện tập (không có lưu lại điểm số)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72cfbbe2-b966-4fbe-8405-a735dd544b1f" />
 
 ## Hướng dẫn sử dụng cho Học Sinh
 
-1. Truy cập vào đường link trang web [(Trang GitHub)](https://almay4024.github.io/thi-tot-nghiep/).
+1. Truy cập vào đường link trang web [(Trang GitHub)](https://nttungvx.github.io/thi-tot-nghiep-vinh-xuan/).
 2. Tại màn hình chính, bấm **CHỌN ĐỀ TỪ THƯ VIỆN ONLINE**.
 
 <img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/ec6d1d15-78a7-430e-b44e-71c591a3ae93" />
@@ -90,4 +90,4 @@ Nếu đề bài hoặc lời giải có hình ảnh/đồ thị, hệ thống s
 
 
 ---
-*Phát triển bởi Gemini (idea ý tưởng và tính năng: almay4024)*
+*Phát triển bởi almay4024 (idea ý tưởng và tính năng: nttungvx)*

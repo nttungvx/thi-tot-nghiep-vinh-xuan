@@ -92,7 +92,7 @@ Nhiệm vụ của bạn là trích xuất dữ liệu từ tài liệu đó và
 Dưới đây là các quy tắc bắt buộc:
 
 1. TRÍCH XUẤT THÔNG TIN CHUNG (METADATA):
-- "subject": Tự động nhận diện môn học và ghi Mã số. (00: Toán, 01: Vật lí, 02: Hóa học, 03: Sinh học, 04: Ngữ văn, 05: Lịch sử, 06: Địa lí, 07: Tiếng Anh, 08: GDKT & PL, 09: Tin học, 10: Công nghệ).
+- "subject": Tự động nhận diện môn học và ghi Mã số. (00: Toán, 01: Vật lí, 02: Hóa học, 03: Sinh học, 04: Ngữ văn, 05: Lịch sử, 06: Địa lí, 07: Tiếng Anh, 08: GDKT & PL, 09: Tin học, 10: Công nghệ CN, 11: Công nghệ NN).
 - "title": Tên đề thi (VD: "Đề thi thử Sở Hà Nội Lần 1").
 - "timeLimit": Thời gian làm bài tính bằng GIÂY (VD: 90 phút -> 5400). Nếu trong đề không ghi, mặc định là 3000.
 - Điểm số: 
@@ -478,7 +478,7 @@ Dưới đây là các quy tắc bắt buộc:
         const SUBJECT_CODES = {
             "Toán": "00", "Vật lí": "01", "Vật lý": "01", "Hóa học": "02", "Hoá học": "02",
             "Sinh học": "03", "Ngữ văn": "04", "Lịch sử": "05", "Địa lí": "06", "Địa lý": "06",
-            "Tiếng Anh": "07", "GDKT & PL": "08", "Tin học": "09", "Công nghệ": "10"
+            "Tiếng Anh": "07", "GDKT & PL": "08", "Tin học": "09", "Công nghệ CN": "10", "Công nghệ NN": "11"
         };
 
         // Hàm lấy Mã (Để đi tìm số thứ tự trên GitHub)
